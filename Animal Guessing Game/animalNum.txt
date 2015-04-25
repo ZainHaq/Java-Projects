@@ -1,0 +1,52 @@
+211 42
+			
+Arachnid 4 hasElongatedBody hasOneHundredLegs hasVenomousStinger livesByFeedingOnBlood
+Insect 14 canFly hasADistinctPattern endsWithFly hasAMethathoracicFlightWings isEdible hasAStinger livesInHives isASmallBeetle hasASlenderAntenna canJump isGreen makesASound hasSheathedWings isSlow
+Crustacean 6 isAMalacostraca isAMaxillopoda hasClaws hasCurvyTail livesInWaterAndLand livesInSeaWater
+Echinozoa 1 hasACircularShape
+Echinoidea 0
+
+Asterozoa 0 
+Sessile 1 isAColonialOrganism
+Scyphozoa 1 formsReefs
+Oligochaete 2 livesInSoil livesByFeedingOnBlood
+Polychaete 0 
+
+Cephalopod 2 hasATorpedoShapedHead hasARoundShapedHead
+Gastropod 1 hasAShell
+Bird 25 isExotic isAFlightlessBird isNativeToAfrica laysLargeEggs isNativeToNewZealand livesInAColdEnvironment livesInTheTropics hasALongBeak isPink isAScavenger isSmallerThanARabbit hasALargeBeak isBlack hasShinyFeathers canSwim drinksNectar isDomesticated hasAOrangeBreast cachesFood isCarnivorous hasALongBeak isAFastBird isNocturnal hasBroadWings hasAnAngularBeak
+Amphibian 3 hasATail hasDrySkin hasStrongLegs
+Common 6 isConsumedByHumans hasLongBill isAFastSwimmer isAFreshWaterFish hasAForkedFin containsVitaminA
+
+Exotic 3 isDangerous hasAnElongatedBody hasSharpTeeth
+Chondrichthyes 1 hasPowerfulJaws
+Crocodillia 3 hasALongSnout isEndangered hasABonySeptum
+Testudines 1 livesOnlyOnLand
+Squamata 4 isALargeReptile movesSlowly canChangeColour hasParietalEye
+
+Snake 5 isALargeSnake laysEggs hasAShortLifeSpan makesALoudNoise hasAWidenedHood
+Rodentia 15 isDomesticated hasAThinTail lacksFur hasASmallBody isAVermin hasABushyTail isExperimentedOn hasALargeTail hasQuills isSemiAquatic hasBlackAndWhiteStripes   burrowsUnderground hasAVestigialTail isAHerbivore canBark
+Chiroptera 0
+Soricomorpha 2 hasSpines hasEnlargedForefeet
+Primates 9 hasATail hasExoticColouring hasLargeTeeth isNocturnal isAGreatApe hasPinkLips isOrange canSpeak hasLargeEars
+
+Cetacea 6 isAWhale hasAShortBeak hasALongBeak isABaleenWhale isTheLargestAnimal isDangerous
+Artiodactyla 14 hasHorns hasIt’sMilkConusmedByHumans hasHumps isFurry isFluffy isTall isPink hasAntler hasSpots hasPalmateAntlers isFast isDomesticated hasLargeHorns hasLongHair
+Perissodactyla 4 isDomesticated isFast hasStripes hasHorns
+Marsupial 5 isQuadrupedal hasShortLegs livesInTrees isNocturnal isCarnivorous
+Xenartha 2 hasArmour isSlow
+
+Afrotheria 2 hasATrunk isNocturnal
+Monotremata 1 hasBill
+Canidae 5 isOrangish isNativeToAustrailia hasBushyFur isDomesticated isNativeToAfrica
+Ursoidea 3 isBlack eatsBamboo isWhite
+Musteloidea 6 isSemiAquatic hasAPointedMuzzle isOmnivorous resemblesABear sparysALiquid isDomesticated
+
+Pinnipedia 2 hasTusks lacksEars
+Procyonidae 0
+Felidae 6 hasSpots hasStripes hasAMane isTheFastestAnimalInTheWorld hasAShortTail hasABroadJaw
+Viverridae 3 isNocturnal producesMusk hasAYellowBody
+Hyaenidae 1 makesAUniqueSound
+
+Herpestidae 0 
+Cestoda 0

@@ -1,0 +1,213 @@
+Arachnid Centipede true true false false
+Arachnid Millipede true false false false
+Arachnid Scorpion false false true false
+Arachnid Spider false false false false
+Arachnid Tick false false false true
+Insect Bee true true false false false true true false false false false false false false 
+Insect Wasp true true false false false true false false false false false false false false 
+Insect Butterfly true true false false false false false false true false false false false false 
+Insect Ladybug true true false false false false false true false false false false false false 
+Insect Moth true true false false false false false false false false false false false false 
+Insect Mosquito true false false false false false false false false false false false false false
+Insect Fly true false true true false false false false false false false false false false 
+Insect Dragonfly true false true false false false false false false false false false false false 
+Insect Locust true false false false true false false false false false false false false false 
+Insect Beetle false false false false false false false false false false false false true false
+Insect Mantis false false false false false false false false false true true false false false
+Insect Caterpillar false false false false false false false false false false false false false true
+Insect Grasshopper false false false false false false false false false true false false false false 
+Insect Ant false false false false false false false false false false false false false false
+Insect Cricket false false false false false false false false false true false true false false
+Crustacean Crayfish true false true false false false
+Crustacean Crab true false true false true false
+Crustacean Krill true false false false false false
+Crustacean Lobster true false true false false true 
+Crustacean Shrimp true false false true false false
+Crustacean Barnacle false true false false false false 
+Crustacean Lice false false false false false false 
+Echinozoa SeaUrchin true 
+Echinozoa SeaCucumber false
+Echinoidea SandDollar  
+Asterozoa Starfish 
+Sessile ManO’War true
+Sessile Jellyfish false
+Scyphozoa Coral true
+Scyphozoa Anemone false
+Oligochaete Earthworm true false 
+ 
+Oligochaete Ragworm false false
+Oligochaete Leech false true
+Polychaete Plankton
+Cephalopod Squid true false
+Cephalopod Cuttlefish false false
+Cephalopod Octopus false true
+Gastropod Snail true
+Gastropod Slug false
+Bird Parrot true false false false false false true false false false false false false false false false false false false false false false false false false
+Bird Toucan true false false false false false true true false false false false false false false false false false false false false false false false false 
+Bird Flamingo true false false false false false false false true false false false false false false false false false false false false false false false false 
+Bird Magpie true false false false false false false false false false false false false false false false false false false false false false false false false 
+Bird Kiwi true true false false true false false false false false false false false false false false false false false false false false false false false  
+Bird Ostrich true true true true false false false false false false false false false false false false false false false false false false false false false
+Bird Vulture true false false false false false false false false true false false false false false false false false false false false false false false false 
+Bird Penguin true true false false false true false false false false false false false false false false false false false false false false false false false 
+Bird Emu true true false false false false false false false false false false false false false false false false false false false false false false false 
+Bird Peacock true true true false false false false false false false false false false false false false false false false false false false false false false 
+Bird Robin false false false false false false false false false false true false false false false false false true false false false false false false false 
+Bird Eagle false false false false false false false false false false false false false false false false false false false true false true false true false 
+Bird Hawk false false false false false false false false false false false false false false false false false false false true false true false false false
+Bird Owl false false false false false false false false false false false false false false false false false false false true false false true false false
+Bird Chicken false false false false false false false false false false false false false false false false false false false false false false false false false
+Bird Hummingbirds false false false false false false false false false false true true false false false true false false false false false false false false false
+Bird Raven false false false false false false false false false false true true true true false false false false false false false false false false false
+Bird Goose false false false false false false false false false false false false false false false false false false false false true false false false false
+Bird Crow false false false false false false false false false false true true true false false false false false false false false false false false false
+Bird Duck false false false false false false false false false false true true false false true false false false false false false false false false false
+Bird Woodpecker false false false false false false false false false false true true false false false false false false false false false false false false false
+Bird Falcon false false false false false false false false false false false false false false false false false false false true false true false false true
+Bird Pigeon false false false false false false false false false false true false false false false false true false false false false false false false false 
+Bird Seagull false false false false false false false false false false false false false false false false false false false true false false false false false
+Bird Chickadee false false false false false false false false false false true false false false false false false false true false false false false false false 
+Bird Sparrow false false false false false false false false false false true false false false false false false false false false false false false false false 
+Amphibian Salamander true false false
+Amphibian Newt true false true
+Amphibian Frog false false false
+Amphibian Toad false true false
+Common Salmon true false false true true false
+Common Trout true false false true false false
+Common Mackerel true false false false false true
+Common Tuna true false false false false false
+Common Marlin false true false false false false
+Common Bass false false false false false false
+Common Swordfish false true false false false false
+Exotic Pirahna true false true
+Exotic Eel true true false
+Exotic Lionfish true false false 
+Exotic Clownfish false false false
+Chondrichthyes Shark true
+Chondrichthyes Manta-Ray false
+Crocodillia Crocodile true false false
+Crocodillia Gharial true true false
+Crocodillia Alligators false false true
+Crocodillia Caiman false false false
+ 
+Testudines Tortoise true
+Testudines Turtle false
+Squamata GilaMonster true true false false 
+Squamata KomodoDragon true false false false 
+Squamata Iguana false false false true
+Squamata Lizard false false false false
+Squamata Chameleon false false true false
+Snake Anaconda true false true false false 
+Snake Boa true false false false false
+Snake Python  true true false false false
+Snake Rattlesnake false false false true false
+Snake Cobra false false false false true
+Snake GardenSnake false false false false false
+Rodentia Mouse true true false true true false false false false false false false false false false
+Rodentia Rat true true false false false false false false false false false false false false false
+Rodentia MoleRat true true true false false false false false false false false false false false false 
+Rodentia GuineaPig true false false false false false true false false false false false false false false
+Rodentia Hamster true false false false false false false false false false false false false false false
+Rodentia Gerbil true true false true false false false false false false false false false false false
+Rodentia Chinchilla true false false false false true false false false false false false false false false
+Rodentia Porcupine false false false false false false false true true false false false false false false
+Rodentia Cabybara false false false false false false false false false false false false true false false
+Rodentia Beaver false false false false false false false true false true false false false false false
+Rodentia Jerboa false false false false false false false false false false false false true false false
+Rodentia Squirrel false false false false false false false true false false false false false false false
+Rodentia Gopher false false false false false false false false false false false true false false false
+Rodentia GroundHog false false false false false false false false false false false true false true false
+Rodentia PrairieDog false false false false false false false false false false false true false false true
+Rodentia Chipmunk false false false false false false false true false false true false false false false
+Chiroptera Bat
+Soricomorpha Hedgehogs true false
+Soricomorpha Shrew false false
+Soricomorpha Mole false true
+Primates Lemur true false false true false false false false false
+Primates Baboon true false true false false false false false false
+Primates Mandrill true true false false false false false false false 
+Primates Monkey true false false false false false false false false
+Primates Human false false false false true false false true false
+Primates Gibbon false false false false false false false false false
+Primates Gorilla false false false false true false false false false
+Primates Orangutan false false false false true false true false false
+Primates Chimpanzee false false false false true false false false true
+Primates Bonobo false false false false false true false false false
+Cetacea HumpbackWhale true false false true false false
+Cetacea KillerWhale true false false false false true
+Cetacea SpermWhale true false false false false false
+Cetacea BlueWhale true false false true true false
+Cetacea Dolphin false false false false false false
+Cetacea Narwhal false false true false false false
+Cetacea Porpoise false true false false false false
+Artiodactyla Deer true false false false false false false true true false false false false false
+Artiodactyla Yak  true false false false false false false false false false false false false true
+Artiodactyla Goat true false false false false false false false false false false true false false
+Artiodactyla Antelope true false false false false false false true false false true false false false
+Artiodactyla Moose true false false false false false false true false true false false false false
+Artiodactyla Elk true false false false false false false true false false false false false false
+Artiodactyla Buffalo true false false false false false false false false false false false true false
+Artiodactyla Bison true false false false false false false false false false false false false false
+Artiodactyla Camel false true true false false false false false false false false false false false
+Artiodactyla Hippo false false false false false false false false false false false false false false
+Artiodactyla Llama false true false true false false false false false false false false false false
+Artiodactyla Sheep false false false false true false false false false false false false false false
+Artiodactyla Pig false false false false false false true false false false false false false false
+Artiodactyla Giraffe false false false false false true false false false false false false false false
+Artiodactyla Cow false true false false false false false false false false false false false false
+Perissodactyla Horse true true false false 
+Perissodactyla Donkey true false false false
+Perissodactyla Rhino false false false true
+Perissodactyla Zebra false false true false
+Perissodactyla Tapir false false false false
+Marsupial Kangaroo true false false false false 
+Marsupial Wallaby true true false false false
+Marsupial Possum false false true true false
+Marsupial Koala false false true false false
+Marsupial TasmanianDevil false false false false true
+Marsupial Wombat false false false false false
+Xenartha Armadillo true false 
+Xenartha Anteater false false 
+Xenartha Sloth false true
+Afrotheria Elephant true false
+Afrotheria Aardvark false true
+Afrotheria Manatee false false
+Monotremata Echindna false
+Monotremata Platypus true
+Canidae Fox true false false false false 
+Canidae Dingo true true false false false
+Canidae Wolf false false true false false
+Canidae Jackal false false false false true
+Canidae Coyote false false false false false
+Canidae Dog false false false true false
+Ursoidea Panda true true false
+Ursoidea GrizzlyBear false false false
+Ursoidea BlackBear true false false
+Ursoidea PolarBear false false true
+Musteloidea Otter true false false false false false
+Musteloidea Mink true true false false false false
+Musteloidea Badger false false true false false false
+Musteloidea Weasel false false false false false false
+Musteloidea Ferret false false true false false true
+Musteloidea Wolverine false false false true false false
+Musteloidea Skunk false false false false true false
+Pinnipedia Walrus true false
+Pinnipedia Seal false true
+Pinnipedia SeaLion false false
+Procyonidae Raccoon
+Felidae Jaguar true false false false false true
+Felidae Leopard true false false false false false
+Felidae Cheetah true false false true false false
+Felidae Lynx true false false false true false
+Felidae Tiger false true false false false false
+Felidae Lion false false true false false false
+Felidae Cougar false false false false false false 
+Viverridae Civet true true false
+Viverridae Linsang true false true
+Viverridae Genet true false false 
+Viverridae Binturong false false false 
+Hyaenidae Hyenda true
+Hyaenidae Aardwolf false
+Herpestidae Mongoose
+Cestoda Tapeworm
