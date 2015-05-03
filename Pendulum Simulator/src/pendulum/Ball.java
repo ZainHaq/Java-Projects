@@ -9,8 +9,8 @@ import java.awt.Color;
 import java.awt.Graphics;
 
 /**
- *
- * @author zain
+ * Ball Class needed for pendulum simulation
+ * 
  */
 public class Ball {
 
